@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a8edea,100:fed6e3&height=120&section=header&text=Hello%20World!&fontSize=45&fontColor=2c3e50&animation=scaleIn&fontAlignY=62&desc=Student%20Developer&descSize=18&descAlignY=78" />
 </div>
 
 ## 🎓 About Me
