@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:667eea,100:764ba2&height=160&section=header&text=Hello%20World!&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Welcome%20to%20the%20future&descSize=20&descAlignY=90" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:667eea,100:764ba2&height=160&section=header&text=Think%20•%20Code%20•%20Impact&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Welcome%20to%20the%20future&descSize=20&descAlignY=90" />
 </div>
 
 ## 🎓 About Me
