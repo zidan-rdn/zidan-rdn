@@ -80,10 +80,10 @@ const mahasiswaInformatika = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/USERNAME_GITHUB_ANDA/NAMA-PROJECT-1">
+  <a href="https://github.com/zidan-rdn/NAMA-PROJECT-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zidan-rdn&repo=NAMA-PROJECT-1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/USERNAME_GITHUB_ANDA/NAMA-PROJECT-2">
+  <a href="https://github.com/zidan-rdn/NAMA-PROJECT-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zidan-rdn&repo=NAMA-PROJECT-2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
