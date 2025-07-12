@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Zidan ~ Rdn
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science;Passionate+about+Coding+%26+Technology;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Game+Science;Coding+%26+Technology;Always+learning+new+things!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:667eea,100:764ba2&height=160&section=header&text=Think%20•%20Code%20•%20Impact&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Welcome%20to%20the%20future&descSize=20&descAlignY=90" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:667eea,100:764ba2&height=160&section=header&text=Think%20•%20Code%20•%20Impact&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=70&descSize=20&descAlignY=90" />
 </div>
 
 ## 🎓 About Me
