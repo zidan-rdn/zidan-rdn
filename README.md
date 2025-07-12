@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm [Nama Anda]
+# Hi there! 👋 I'm [M Zidane R]
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;Passionate+about+Coding+%26+Technology;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science;Passionate+about+Coding+%26+Technology;Always+learning+new+things!" alt="Typing SVG" />
 </div>
 
 <div align="center">
