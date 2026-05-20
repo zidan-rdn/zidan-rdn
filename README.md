@@ -15,7 +15,7 @@ const mahasiswaInformatika = {
     nama: "Zidane Rdn",
     lokasi: "Indonesia 🇮🇩",
     minat: ["Web Development", "AI/ML", "Game Development"],
-    sedangBelajar: ["React", "Node.js", "Python", "Flutter", "Database"],
+    sedangBelajar: ["React", "Node.js", "Python", "Deep Learning"],
     hobi: ["Coding", "Swimming", "Music", "Reading"],
     motto: "Learn, Galau, Repeat! 🚀"
 };
